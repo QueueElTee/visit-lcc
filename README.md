@@ -7,3 +7,5 @@ Flutter project based on tutorials from the documentation
 1. [Building Layouts](https://flutter.dev/docs/development/ui/layout/tutorial)
 
 2. [Adding interactivity to your Flutter Apps](https://flutter.dev/docs/development/ui/interactive)
+
+![UI Layout](/layout.PNG "UI Layout")
